@@ -10,3 +10,5 @@ Welcome to the PDF Chat Bot! This application allows you to upload a PDF file an
    
 ### Disclaimer:
 Please note that this application does not require an API Key. However, due to funding constraints, we are unable to provide access to OpenAI's GPT models through an API. Therefore, this repository serves as a coding reference to be forked and built on.
+
+Deployed mock-up: [PDF Chat Bot] (https://pdf-chatbot-ok97pktml-cmorgan3324.vercel.app/upload)
