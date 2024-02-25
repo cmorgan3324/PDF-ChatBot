@@ -4,7 +4,7 @@
 Welcome to the PDF Chat Bot! This application allows you to upload a PDF file and chat with OpenAI about the information contained within the uploaded PDF. Simply upload your PDF file, and the bot will assist you in extracting and discussing the information found in the document.
 
 ## How to Use:
-1. Click on the "Upload PDF" button.
+1. Drag and drop PDF or click inside the dotted Upload PDF box.
 2. Select the PDF file you want to discuss.
 3. Once the PDF is uploaded, start chatting with the bot about the content of the document.
    
